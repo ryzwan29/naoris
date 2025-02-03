@@ -62,4 +62,4 @@ cd naoris
 
 # Install dependencies
 echo -e "\033[1;32m\033[1mInstalling requirements dependencies...\033[0m"
-npm install
+npm install cloudscraper
